@@ -1,0 +1,1 @@
+{"root":["./src/vite-env.d.ts","./src/@core/constants/constants.ts","./src/@core/services/api.ts","./src/@ui/utils/formatdate.ts","./src/app.tsx","./src/main.tsx","./src/@ui/components/addtodo.form.tsx","./src/@ui/components/todo.table.tsx","./src/@ui/pages/home.tsx","./src/assets/icons.tsx"],"version":"5.6.3"}
